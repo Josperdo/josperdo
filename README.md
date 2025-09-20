@@ -19,6 +19,7 @@
 - CompTIA Security+
 - CompTIA CySA+
 - CompTIA PenTest+
+- CompTIA SecurityX
 
 ---
 
