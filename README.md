@@ -4,7 +4,7 @@ Building security tools and automations.
 
 ## Projects
 
-**[Winlog-Detect](https://github.com/Josperdo/winlog-detect)** – Detection tool for Windows Security logs (failed logons, suspicious processes)
+**[Azure-Security-Monitor](https://github.com/Josperdo/Azure-Security-Monitor)** – Parses Azure Activity Logs and raises alerts for high-risk operations.
 
 **[Mjolnir](https://github.com/Josperdo/mjolnir)** – Discord bot that warns or times out discord server members for playing video games too much.
 
