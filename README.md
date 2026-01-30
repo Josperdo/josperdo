@@ -1,28 +1,19 @@
-# Hi, I’m John 👋
+# John Sperry
 
----
+Building security tools and automations.
 
-### 📂 Projects
-- [Winlog-Detect](https://github.com/Josperdo/winlog-detect) — Parses Windows Security logs (4625 & 4688) to detect failed-logon surges and suspicious process creation in a safe, reproducible lab environment.
-- [Azure Security Monitor](https://github.com/Josperdo/Azure-Security-Monitor) — Audits Azure AD role assignments to detect excessive privileges, automating data collection and reporting with Azure CLI/SDK.
-- [Upcoming Project](#) —
-  
----
+## Projects
 
-### 🛠 Tech I Use
-`Python` `Bash` `PowerShell` `C#`  
-`.Net` `Linux` `Azure` `AWS` `SQL`
+**[Winlog-Detect](https://github.com/Josperdo/winlog-detect)** – Detection tool for Windows Security logs (failed logons, suspicious processes)
 
----
+**[Azure Security Monitor](https://github.com/Josperdo/Azure-Security-Monitor)** – Audits Azure AD role assignments for privilege escalation risks
 
-### 📜 Certifications
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
-- CompTIA SecurityX
+## Stack
 
----
+Python • Bash • PowerShell • Linux • Azure • SQL
 
-### 📫 Connect
+## Certifications
+
+Security+ • CySA+ • PenTest+ • SecurityX • AZ-104
+
 [LinkedIn](https://www.linkedin.com/in/johnrobsperry/)
-
