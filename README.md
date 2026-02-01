@@ -8,7 +8,7 @@ Building security tools and automations.
 
 **[Winlog-Detect](https://github.com/Josperdo/winlog-detect)** – This is a small, reproducible demo that highlights Python scripting, basic detection logic, and clean repo hygiene.
 
-**[Mjolnir](https://github.com/Josperdo/mjolnir)** – Discord bot that warns or times out discord server members for playing video games too much.
+**[Security-Baseline-Checker](https://github.com/Josperdo/Security-Baseline-Checker)** – A lightweight Bash utility for auditing basic security configurations on Linux systems.
 
 ## Stack
 
