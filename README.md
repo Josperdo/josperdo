@@ -3,7 +3,7 @@
 Building security tools and automations.
 
 ## Projects
-**[Log-Event-Filter](https://github.com/Josperdo/Azure-Security-Monitor)** – A Python utility for analyzing authentication logs and identifying failed SSH login attempts.
+**[Log-Event-Filter](https://github.com/Josperdo/Log-Event-Filter)** – A Python utility for analyzing authentication logs and identifying failed SSH login attempts.
 
 **[Azure-Security-Monitor](https://github.com/Josperdo/Azure-Security-Monitor)** – Parses Azure Activity Logs and raises alerts for high-risk operations.
 
