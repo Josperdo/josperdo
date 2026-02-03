@@ -1,5 +1,3 @@
-# John Sperry
-
 Building security tools and automations with some labs sprinkled in as well.
 
 ## Projects
@@ -18,5 +16,3 @@ Python • Bash • PowerShell • Linux • Azure • SQL
 ## Certifications
 
 Security+ • CySA+ • PenTest+ • SecurityX • AZ-104
-
-[LinkedIn](https://www.linkedin.com/in/johnrobsperry/)
