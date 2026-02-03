@@ -1,6 +1,6 @@
 # John Sperry
 
-Building security tools and automations.
+Building security tools and automations with some labs sprinkled in as well.
 
 ## Projects
 **[Log-Event-Filter](https://github.com/Josperdo/Log-Event-Filter)** – A Python utility for analyzing authentication logs and identifying failed SSH login attempts.
