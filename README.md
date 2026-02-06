@@ -1,6 +1,6 @@
 ## Stack
 
-Python • Bash • PowerShell • Linux • Azure • SQL
+Python • Bash • PowerShell • Azure • SQL
 
 ## Certifications
 
