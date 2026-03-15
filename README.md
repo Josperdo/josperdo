@@ -1,16 +1,11 @@
 Hi 👋 I'm John
 
-Cloud Security & Detection Engineering 💻
-GRC background transitioning into cloud security infrastructure, threat detection, and building tools for infrastructure visibility.
+Cloud Infrastructure & Security Engineering 
+GRC and IT background transitioning expanding into cloud security infrastructure, threat detection, and building tools for infrastructure visibility.
  
 * 🌍  Based in Los Angeles, CA
 * 🔨  Currently building: Multi-cloud SOC labs, detection rules, network monitoring tools
 * 🤝  Open to collaborating on cloud security, detection engineering, or homelab projects
- 
-## Projects
-* [**cloud-soc-terraform**](https://github.com/Josperdo/cloud-soc-terraform) — Multi-cloud (Azure/AWS) SOC lab with Sentinel detections, hardened compute, and DevSecOps CI/CD
-* [**scanlyne**](https://github.com/Josperdo/scanlyne) — Network change detection tool with nmap, Flask UI, and risk context
-* [**soc-lab-docker**](https://github.com/Josperdo/soc-lab-docker) — Reproducible blue team training lab with Elasticsearch and MITRE ATT&CK alignment
  
 ## Skills
  
@@ -27,9 +22,6 @@ GRC background transitioning into cloud security infrastructure, threat detectio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?logo=microsoft&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
- 
-### Security & Detection
-Detection Engineering • SIEM • IAM • Cloud hardening • MITRE ATT&CK
  
 ### Certifications
 Security+ • CySA+ • PenTest+ • CASP+ • AZ-104
