@@ -29,7 +29,7 @@ GRC background transitioning into cloud security infrastructure, threat detectio
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
  
 ### Security & Detection
-Detection Engineering • KQL • SIEM • IAM • Cloud hardening • MITRE ATT&CK
+Detection Engineering • SIEM • IAM • Cloud hardening • MITRE ATT&CK
  
 ### Certifications
 Security+ • CySA+ • PenTest+ • CASP+ • AZ-104
