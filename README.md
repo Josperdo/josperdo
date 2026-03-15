@@ -49,7 +49,7 @@ I design and deploy cloud security architectures, build detection systems, and c
 ## 🎓 Certifications
 
 **Security:** Security+ | CySA+ | PenTest+ | CASP+  
-**Cloud:** AZ-900 | AZ-104
+**Cloud:** AZ-104
 
 ---
 
