@@ -1,4 +1,5 @@
 Hi 👋 I'm John
+
 Cloud Security & Detection Engineering 💻
 GRC background transitioning into cloud security infrastructure, threat detection, and building tools for infrastructure visibility.
  
