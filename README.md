@@ -1,54 +1,58 @@
-# 👋 Hi, I’m John
-### 🔐 Security & Cloud Automation • Detection Engineering • Azure
+# 👋 Hi, I'm John
+### 🔐 Cloud Security Infrastructure • Detection Engineering • Azure/AWS
 
-I build security automation, cloud controls, and tooling to make systems easier to monitor, audit, and defend.
-
----
-
-## ⚙️ Focus Areas
-Security Automation • Detection Engineering • Cloud Security (Azure)
+I design and deploy cloud security architectures, build detection systems, and create tools that give security teams visibility into their infrastructure.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Focus Areas
 
-**Primary**
+**Security:** Infrastructure as Code for cloud • Blue team detection • Network monitoring • IAM/access control  
+**Platforms:** Azure • AWS • Docker • Cloud-native security
+
+---
+
+## 🛠️ Recent Projects
+
+### [cloud-soc-terraform](https://github.com/Josperdo/cloud-soc-terraform) - Multi-cloud SOC lab environment spanning **Azure** and **AWS**. Demonstrates production-ready cloud security patterns: hardened compute, log aggregation, and automated threat detection.
+
+---
+
+### [scanlyne](https://github.com/Josperdo/scanlyne) - Network change detection tool for homelabbers, sysadmins, and blue teamers. Runs nmap scans, detects changes between baselines, and surfaces risk context in plain English.
+### [soc-lab-docker](https://github.com/Josperdo/soc-lab-docker) - Open-source blue team training lab. Docker-based SOC environment for learning and practicing detection engineering tradecraft. Elasticsearch-backed with MITRE ATT&CK alignment.
+
+
+---
+
+## 💡 Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-
-**Project / Supporting**
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+
+### Security & Detection
+![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?logo=microsoft&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6B35?logoColor=white)
 
 ---
 
 ## 🎓 Certifications
+
 **Security:** Security+ | CySA+ | PenTest+ | CASP+  
-**Cloud:** AZ-104
-
----
-
-## 📌 Featured Security Projects
-- **SecureCLI** — CLI security tooling for assessment and automation (Go, Python)
-- **CloudAudit** — Automated Azure security and compliance checks
-- **Detection Engineering Lab** — Log generation, rule testing, and alert validation for Azure/SIEM workflows
-
----
-
-## 🧪 Selected Side Projects
-Tools I build to solve practical problems or explore new ideas:
-
-- **Dotfile Manager (GUI)** — Desktop app for managing and syncing configuration without manual symlinks or Git workflows
-- **Sports Prediction Engine** — Machine learning models using historical matchup and schedule context to project player performance
-- **Discord Activity Moderator** — Bot that monitors gaming activity and enforces configurable timeout rules via the Discord API
+**Cloud:** AZ-900 | AZ-104
 
 ---
 
 ## 📫 Connect
-[LinkedIn](#) • [Portfolio](#)
+
+[LinkedIn](https://linkedin.com/in/josperdo) • [Portfolio](https://josperdo.github.io)
