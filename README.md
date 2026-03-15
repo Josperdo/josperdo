@@ -15,9 +15,6 @@ I design and deploy cloud security architectures, build detection systems, and c
 ## 🛠️ Recent Projects
 
 ### [cloud-soc-terraform](https://github.com/Josperdo/cloud-soc-terraform) - Multi-cloud SOC lab environment spanning **Azure** and **AWS**. Demonstrates production-ready cloud security patterns: hardened compute, log aggregation, and automated threat detection.
-
----
-
 ### [scanlyne](https://github.com/Josperdo/scanlyne) - Network change detection tool for homelabbers, sysadmins, and blue teamers. Runs nmap scans, detects changes between baselines, and surfaces risk context in plain English.
 ### [soc-lab-docker](https://github.com/Josperdo/soc-lab-docker) - Open-source blue team training lab. Docker-based SOC environment for learning and practicing detection engineering tradecraft. Elasticsearch-backed with MITRE ATT&CK alignment.
 
