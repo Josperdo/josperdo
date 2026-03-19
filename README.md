@@ -7,7 +7,7 @@ GRC and IT background expanding into cloud security, threat detection, and build
 
 ## Current Focus
 
-* 🔨  Multi-cloud SOC labs across AWS and Azure
+* 🔨  Multi-cloud projects across AWS and Azure
 * 🔨  Detection rules and network monitoring tools
 
 ## Skills
